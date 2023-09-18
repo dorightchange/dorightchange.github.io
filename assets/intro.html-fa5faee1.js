@@ -1,0 +1,1 @@
+import{_ as t,V as o,W as n,X as e}from"./framework-7d4a7b4b.js";const _={},s=e("p",null,"欢迎道友，茫茫互联网，相遇即是缘分。",-1),c=e("p",null,"贫道乃一个偶尔写点前端的Java小白，步入编程修仙之途已一年有余。",-1),r=[s,c];function a(l,i){return o(),n("div",null,r)}const f=t(_,[["render",a],["__file","intro.html.vue"]]);export{f as default};

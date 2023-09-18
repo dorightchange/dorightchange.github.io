@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2c37ac7a","path":"/category/%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE/","title":"页面配置 分类","lang":"zh-CN","frontmatter":{"title":"页面配置 分类","blog":{"type":"category","name":"页面配置","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-184f4da6","path":"/intro.html","title":"作者简介","lang":"zh-CN","frontmatter":{"icon":"people","sidebar":false,"index":false,"title":"作者简介"},"headers":[],"git":{},"readingTime":{"minutes":0.18,"words":54},"filePathRelative":"intro.md","excerpt":"<p>欢迎道友，茫茫互联网，相遇即是缘分。</p>\\n<p>贫道乃一个偶尔写点前端的Java小白，步入编程修仙之途已一年有余。</p>\\n"}');export{e as data};
